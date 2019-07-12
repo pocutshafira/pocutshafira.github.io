@@ -4,12 +4,14 @@
 
 .movietitle {
     margin-inline-start: 60px;
+    color: white;
 }
 
 .movieinfo {
     margin-inline-start: 60px;
     font-size: 19px;
     font-weight: bold;
+    color: brown
 }
 
 #watchmoonlight {
@@ -18,20 +20,30 @@
 }
 
 .moviereview {
-    margin-top: 130px;
+    margin-top: 100px;
     margin-inline-start: 0px;
+    margin-bottom: 20px;
 }
 
 .card-title{
-    font-family: 'Cormorant Unicase', serif;
+    font-family: 'Marcellus', serif;
     font-weight: bold;
-    font-size: 30px
+    font-size: 30px;
+    color: brown;
 }
 
 .card-text {
     size: 30px;
+    color: brown
 }
 
 .card {
     margin-right: 90px;
+    color: blanchedalmond
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+    color: white;
 }
