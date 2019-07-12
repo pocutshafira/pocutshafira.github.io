@@ -1,0 +1,37 @@
+#moonlight {
+    align-content: center;
+}
+
+.movietitle {
+    margin-inline-start: 60px;
+}
+
+.movieinfo {
+    margin-inline-start: 60px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+#watchmoonlight {
+    margin-inline-start: 60px;
+    font-size: 20px;
+}
+
+.moviereview {
+    margin-top: 130px;
+    margin-inline-start: 0px;
+}
+
+.card-title{
+    font-family: 'Cormorant Unicase', serif;
+    font-weight: bold;
+    font-size: 30px
+}
+
+.card-text {
+    size: 30px;
+}
+
+.card {
+    margin-right: 90px;
+}
